@@ -50923,5 +50923,8 @@
 	},
 	{
 		"fileName": "../operate/all_hd20190601_songs.json"
+	},
+	{
+		"fileName": "../operate/all_ba20190601_songs.json"
 	}
 ]
